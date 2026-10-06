@@ -1,29 +1,38 @@
-<h2>Телеграм бот с функцией валидации и бьютифаера JSON</h2>
+<h2>Telegram bot - "Poly_TEST"</h2>
+<h2>"Poly_TEST"</h2>
+<h2>P - Проверка</h2>
+<h2>O - Ошибок</h2>
+<h2>L - Логика</h2>
+<h2>Y - Языка</h2>
 
 > **Статус проекта:**
 >
-> 🟢 Поддерживается (активный) 
+> 🟢 Поддерживается (Неактивный)
+> <h2>Bot проверен на платформе - "Google Colab</h2>
+> <h2>На данный момент не подключён к серверу</h2>
+
+
 
 ## Цели и Задачи
-Помочь тестировщику быстрее проверить JSON на нарушение синтаксиса
+Цель - помочь тестировщику быстрее проверить JSON;
 
 Этот бот при получении JSON:
-* Проверяет на ошибки синтаксиса
-* Возвращает JSON в удобочитаемом формате
+* Проверяет на ошибки синтаксиса;
 
 ## 🖼 Скриншоты
 
 Стартовое меню:
 
-![image](https://raw.githubusercontent.com/German-D/tg_json/main/static/menu.png)
+![image]()
+![image]()
 
 После отправки JSON c ошибкой:
 
-![image](https://raw.githubusercontent.com/German-D/tg_json/main/static/syntax.png)
+![image]()
 
 Пример работы бьютифаера:
 
-![image](https://raw.githubusercontent.com/German-D/tg_json/main/static/beautifaer.png)
+![image]()
 
 
 ## 💻 Технологии
@@ -31,34 +40,7 @@
 * Python
 * Библиотека `telebot`
 
-## ⏬ Установка на локальном компьютере
-
-1. Скачать проект
-   
-2. Создать бота и через [@BotFather](https://t.me/BotFather) и вставить в проекте свой токен от бота
-
-3. Создаём виртуальное окружение внутри папки проекта.
-Далее команды для MacOS (для windows инуструкция [есть вот тут](https://realpython.com/python-virtual-environments-a-primer/#create-it))
-
-``` markdown
-python3 -m venv venv
-```
-
-``` markdown
-source venv/bin/activate
-```
-4. Устанавливаем библиотеки
-
-``` markdown
-python3 -m pip install pyTelegramBotAPI
-```
-
-
-5. Запускаем
-``` markdown
-python3 json_bot.py
-```
 
 ## Автор
 
-Герман Дольников ([@dolnikov](https://t.me/dolnikov))
+Семён Черепанов ([@smcherepanov](https://t.me/smcherepanov))
