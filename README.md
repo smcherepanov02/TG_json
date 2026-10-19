@@ -33,16 +33,16 @@
 
 Стартовое меню:
 
-![image]()
-![image]()
+![image](https://raw.githubusercontent.com/smcherepanov02/TG_json/refs/heads/main/POLY.jpg)
+![image](https://raw.githubusercontent.com/smcherepanov02/TG_json/refs/heads/main/start.jpg)
 
 После отправки JSON c ошибкой:
 
-![image]()
+![image](https://raw.githubusercontent.com/smcherepanov02/TG_json/refs/heads/main/ERORR.jpg)
 
 Пример работы бьютифаера:
 
-![image]()
+![image](https://raw.githubusercontent.com/smcherepanov02/TG_json/refs/heads/main/TXT.jpg)
 
 ## 💻 Технологии
 
